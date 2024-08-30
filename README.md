@@ -1,8 +1,5 @@
-# Analyze_A-B_Test_Results
-An attempt to apply some Probability/Statistics concepts
-
-A/B tests are very commonly performed by data analysts and data scientists. For this project, you will be working to understand the results of an A/B test run by an e-commerce website. Your goal is to work through this notebook to help the company understand if they should:
-
-Implement the new webpage,
-Keep the old webpage, or
-Perhaps run the experiment longer to make their decision.
+This project involves analyzing A/B test results from an e-commerce website to help the company decide whether to implement a new webpage, keep the existing one, or extend the testing period. The notebook is structured into various sections, including Probability, A/B Test, and Regression, and involves tasks such as importing data, cleaning datasets, conducting probability analysis, and applying statistical tests.
+The aim of this analysis is to:
+•	Evaluate the effectiveness of the new webpage compared to the old one in terms of conversion rates.
+•	Apply statistical methods (such as hypothesis testing, ANOVA, and regression analysis) to assess whether observed differences are statistically significant.
+•	Provide actionable insights based on the analysis to guide the company’s decision on webpage implementation.
